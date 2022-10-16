@@ -1,5 +1,7 @@
-# Full Stank Developer
-## Desarollador ELvis David Quintero Siles
-### Estudiante de la Carrera de Ingenieria en Sistemas
+# Full-StacK Developer
+## Elvis David Quinteros Siles
+## <img src="https://t3.ftcdn.net/jpg/03/18/60/62/240_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" width="1000" height="400" />
 
-<img src="https://www.itpt.co.uk/wp-content/uploads/2022/02/Web-Application-Development-Full-Stack-Developer.png" width="1000" height="300" />
+## Estudiante de la Carrera de Ingenieria en Sistemas
+
+
