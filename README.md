@@ -2,8 +2,6 @@
 
 ## <img src="https://i.postimg.cc/13ZK6ZFz/img-Portafolio.png" width="1000" height="400" />
 
-<img src="https://t3.ftcdn.net/jpg/03/18/60/62/240_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" width="278" height="156" />
-
 <h1 align="center">Hi 👋, I'm Elvis Quinteros</h1>
 <h3 align="center">Student at System Ingenier UAGRM, Santa Cruz-Bolivia🌟.</h3>
 
