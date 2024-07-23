@@ -1,5 +1,9 @@
 <p>
-  
+
+  <div align="center">
+    <h1 align="center">Hi 👋, I'm Elvis Quinteros</h1>
+    <h3 align="center">Student at System Ingenier UAGRM, Santa Cruz-Bolivia🌟.</h3>
+
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
@@ -31,13 +35,12 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-  
+
+  </div>
 </p>
 
 ## <img src="https://i.postimg.cc/13ZK6ZFz/img-Portafolio.png" width="1000" height="400" />
 
-<h1 align="center">Hi 👋, I'm Elvis Quinteros</h1>
-<h3 align="center">Student at System Ingenier UAGRM, Santa Cruz-Bolivia🌟.</h3>
 
 <br>
 
