@@ -75,7 +75,7 @@
 
   <h3 align="left">🌐 Connect with me:</h3>
   <div style="display: flex; gap: 15px; justify-content: center;">
-    <a href="https://www.linkedin.com/in/elvisquinteros" target="_blank"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
+    <a href="https://www.linkedin.com/in/elvis-david-quinteros-siles-2939a6225/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
     <a href="https://github.com/elvisquinteros" target="_blank"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/></a>
   </div>
 
