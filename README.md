@@ -18,6 +18,7 @@
     <img width="100" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/>
     <img width="100" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"/>
     <img width="100" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"/>
+    <img width="100" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"/>
     <img width="100" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"/>
     <img width="100" src="https://miro.medium.com/v2/resize:fit:1400/1*1HXCJCOpzKdmQI33ZrEIlg.png"/>
     <img width="100" src="https://www.pragimtech.com/wp-content/uploads/2020/03/blazor-tutorial-for-beginners.png"/>
